@@ -1,0 +1,15 @@
+git init
+git config --global user.name 'me'
+git config --global user.email 'eric7c@hotmail.com'
+git status
+git add index.html		//add
+git status
+git rm --cached index.html	//remove 
+git add *.html			//add all html files
+git add .			//add all files
+
+//midify index.html
+//then:
+git status
+git add
+git status
