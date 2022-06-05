@@ -21,4 +21,9 @@ git status
 git add .
 git status
 git commit -m 'Added console log'
+git status
+
+// get the latest commit
+git log
+
 
