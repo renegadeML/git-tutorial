@@ -13,3 +13,12 @@ git add .			//add all files
 git status
 git add
 git status
+
+git commit
+
+//modify app.js
+git status
+git add .
+git status
+git commit -m 'Added console log'
+
